@@ -2,3 +2,8 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+footer{
+    background-color: red;
+    text-align: center;
+}
